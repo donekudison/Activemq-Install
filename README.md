@@ -36,7 +36,7 @@ activemq_group: activemq
 ```
     - hosts: webservers
       roles:
-        - { role: activemq.png.install }
+        - { role: activemq.eku.install }
 ```
 ## How to run this playbook
 ```
